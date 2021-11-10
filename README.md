@@ -4,8 +4,7 @@ I am a Data Science enthusiast, with skills in Machine Learning. I have worked o
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on kaggle competitions
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/abhishek-mistry-0351081b1/)
-
+- 📫 How to reach me [linkedin]https://www.linkedin.com/in/ekta-mistry-b008a020b/ 
 
 
 ## 🛠 Skills
